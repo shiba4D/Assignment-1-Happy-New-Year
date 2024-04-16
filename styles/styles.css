@@ -1,3 +1,10 @@
-h1{
-    color:green;
+.container{
+    background-image: url(../resources/Banner\ Image.png);
+    background-repeat: no-repeat;
+    width: 1320px;
+    height: 600px;
+    
+}
+.banner-text{
+    color: white;
 }
