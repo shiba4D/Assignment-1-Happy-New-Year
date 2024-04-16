@@ -1,9 +1,11 @@
 .container{
-    background-image: url(../resources/Banner\ Image.png);
+    background-image: url(../resources/Banner\ Image.png),linear-gradient(#0f0f0fee , rgba(222, 217, 217, 0));;
     background-repeat: no-repeat;
     width: 1320px;
     height: 600px;
     
+    /* background: linear-gradient(#302e2e80 , rgba(73, 71, 71, 0)); */
+    background-blend-mode: overlay;
 }
 .banner-text{
     color: white;
