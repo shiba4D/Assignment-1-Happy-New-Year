@@ -1,3 +1,4 @@
+
 .container {
     background-image: url(../resources/Banner\ Image.png), linear-gradient(#000000b6, rgba(92, 90, 90, 0.056));
 
@@ -263,7 +264,7 @@
 .off-day {
     width: 677px;
     height: 91px;
-    margin-left: 195px;
+    margin-left: 225px;
     margin-bottom: 28px;
 }
 
@@ -285,6 +286,8 @@
     background-position: center bottom; */
     /* display: flex; */
     /* padding-right: 500px; */
+    margin-left: 30px;
+    margin-top: 30px;
 }
 
 .leady {
@@ -308,8 +311,47 @@
     margin-left: 500px;
 }
 
-.gift-box{
+.gift-box {
     position: absolute;
     margin-left: 500px;
     margin-top: 10px;
+}
+
+.gift-ideas {
+    width: 1320px;
+    height: 1163px;
+    margin-left: 529px;
+}
+
+.gifts-heading {
+    color: rgb(255, 0, 0);
+    font-size: 25px;
+    margin-top: 152px;
+    font-family: "Roboto", sans-serif;
+}
+
+.awesome-portfolio-heading {
+    color: rgb(7, 2, 17);
+    font-size: 55px;
+    width: 566px;
+    height: 60px;
+    font-family: "Merriweather", serif;
+    margin-top: 6px;
+}
+
+.portfolio-description{
+    font-size: 25px;
+    color: rgba(7, 2, 17, 0.6);
+    font-weight: 400;
+    margin-top: 40px;
+    margin-top: 3px;
+}
+
+.best-gifts-container{
+    text-align: left;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns:1fr 2fr 3fr;
 }
