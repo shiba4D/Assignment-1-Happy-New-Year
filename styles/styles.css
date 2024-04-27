@@ -424,7 +424,7 @@
 
 }
 
-label{
+label {
     position: right;
 }
 
@@ -454,6 +454,84 @@ button {
     right: 0;
     bottom: 0; */
     margin-left: -200px;
+
+
+}
+
+.footer-section {
+    background-color: rgb(233, 99, 99);
+    /* width: 1600px; */
+    height: 609px;
+    /* margin-left: 100px;
+    display: flex; */
+}
+
+.section-tile {
+    width: 375px;
+    height: 80px;
+    padding-left: 140px;
+    padding-top: 120px;
+    color: #ffffff;
+    font-size: 24px;
+    /* margin-block: 100px; */
+}
+
+.social-link{
+    padding-left: 780px;
+    display: flex;
+    margin: 48px;
+}
+
+ .content{
+    padding-left: 1500px;
+    margin-top: -270px;
+    display: flex;
+    color: #ffffff;
+    font-size: 24px;
+    margin-block: 216px;
+}
+
+.right{
+    margin-left :00px;
+    /* text-align: right; */
+
+}
+
+.web{
+    margin-left: 1500px;
+    color: white;
+    display: flex;
+    margin-top: 16px;
+    font-size: 24px;
+    margin-block: -290px;
+}
+
+
+
+.facebook{
+    margin-right: 16px;
+}
+.Instagram{
+    margin-right: 16px;
+}
+.Twitter{
+    margin-right: 16px;
+}
+
+.phone{
+    margin-left: 15px;
+}
+
+.world{
+    margin-left: 15px;
     
-   
+}
+
+/* body{
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    margin-block: 48px;
+} */
+
+.h{
+    border: 1px solid rgba(255, 255, 255, 0.15);
 }
